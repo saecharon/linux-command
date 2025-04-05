@@ -1,0 +1,6 @@
+work flow for watch party app
+1.oauth 
+2.interface 
+3.need permissions for all the data apps 
+4.server for data base 
+5.content data 
